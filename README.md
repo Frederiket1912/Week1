@@ -4,7 +4,7 @@ Week one exercises
 Læringsmål mandag:
 
  1) Understand the fundamental benefits in having the same set up locally for all developers, as on the production server
-    -Gør det lettere at dele ting imellem sig på et developer team, og man undgår konflikter mellem det de forskellige
+    - Gør det lettere at dele ting imellem sig på et developer team, og man undgår konflikter mellem det de forskellige
     medlemmer har lavet lokalt når det hele bliver pushed op og gerne skulle virke som helhed.
  
  2) Start a local Virtual Ubuntu 18.04 Server using Vagrant
