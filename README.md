@@ -1,6 +1,7 @@
 # Week1
 Week one exercises
 
+
 Læringsmål mandag:
 
  1) Understand the fundamental benefits in having the same set up locally for all developers, as on the production server
@@ -22,7 +23,7 @@ Læringsmål tirsdag:
  1) Redegøre for ORM frameworks generelt og deres pros/cons
     - ORM (Object Relational Mapping) frameworket gør det meget lettere at arbejde med crud metoder, da man ikke skal lave dem selv,
     frameworket indeholder alle de metoder man har brug for. Frameworket kan også automatisk oprette tabeller i en DB, så længe man 
-    allerede har oprettet DB'en. Frameworket kan også, ud fra annoteringer, finde ud af hvordan tabellerne skal skal oprettes
+    allerede har oprettet DB'en. Derudover kan det også, ud fra annoteringer, finde ud af hvordan tabellerne skal skal oprettes
     og hvilke datatyper de forskellige kolonner skal have osv. ORM kan også finde ud af at oprette entitets klasser ud fra tabeller i en DB.
     Problemet med ORM er at det kan være svært at styre hvordan tabellerne helt kommer til at blive udformet, med mindre man er meget
     præcis i sine annoteringer og det kan ende med at man får lavet en DB med en meget rodet struktur.
