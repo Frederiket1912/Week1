@@ -59,7 +59,7 @@ Læringsmål tirsdag:
  er det Json, men det kunne også være xml og måske andre ting?
  
  2) Redegøre for konventioner ved opbygning af REST api'er
- - Lidt det samme som svaret ovefor. Det handler overordnet set om at applikationer lavet på alle mulige forskellige måder kan bruge
+ - Lidt det samme som svaret ovenfor. Det handler overordnet set om at applikationer lavet på alle mulige forskellige måder kan bruge
  den data du med din RESTful api sætter til rådighed.
  
  3) Oprette et Java projekt med REST endpoints
@@ -87,7 +87,7 @@ Læringsmål tirsdag:
  - Jeg er nok ikke helt stærk i korrekt JSON syntaks. Overordnet set er det en string med en række key/value pairs.
  
  4) Kunne redegøre for Data Tranfer Objects (DTO's) og serialisering mellem Java objekter og JSON
- - DTO'er bruges når du gerne bestemme præcist hvilken information om objekter du vil sende ud, fx med dine endpoints. Hvis man
+ - DTO'er bruges når du gerne vil bestemme præcist hvilken information om objekter du vil sende ud, fx med dine endpoints. Hvis man
  fx har et bruger objekt er men nok ikke interesseret i at sende hans password med ud, hvis man fx skal lave en liste over alle brugere.
  
  5) Kunne konvertere frem og tilbage mellem Java objekter og JSON i egen kode
